@@ -7,6 +7,6 @@ Create a functional solution (webApp/Desktop-App...) that enables users to trans
 | Developer | Role |
 | ----------- | ----------- |
 | Topi Setälä | info |
-| Praful | info |
-| Bijay | info |
+| Praful Sharma | info |
+| Bijay Satyal | info |
 | Davin Pihlajasaari | ASR Transcription |
