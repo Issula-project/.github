@@ -10,3 +10,7 @@ Create a functional solution (webApp/Desktop-App...) that enables users to trans
 | Praful Sharma | info |
 | Bijay Satyal | info |
 | Davin Pihlajasaari | ASR Transcription |
+
+
+For developers:
+*Add tasks and features to the back-log @ issula-project -> projects -> issual backlog*
